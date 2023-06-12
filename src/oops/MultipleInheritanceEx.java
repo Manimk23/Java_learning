@@ -1,4 +1,4 @@
-/multiple inheritance
+/*/multiple inheritance
 //why it is supported in java. Here the compiler will confuse which sleep() to call
 package oops;
 
@@ -29,4 +29,4 @@ public class MultipleInheritanceEx extends A,B {
 		multiple.sleep();
 		
 
-	}
+	}*/

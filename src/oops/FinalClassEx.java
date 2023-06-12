@@ -1,4 +1,4 @@
-package oops;
+/*package oops;
 //If we declare a class ad final, we cannot inherit that specific class 
 final class VehicleFinal
 {
@@ -19,4 +19,4 @@ final class VehicleFinal
 
 	}
 
-}
+}*/
