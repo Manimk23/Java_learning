@@ -21,7 +21,7 @@ public class InstanceBlockEx {
 
 	public static void main(String[] args) {
 		Traindetails obj = new Traindetails();
-		Traindetails obj1 = new Traindetails();
+		//Traindetails obj1 = new Traindetails();
 	}
 
 }

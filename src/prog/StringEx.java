@@ -3,7 +3,7 @@ package prog;
 public class StringEx {
 
 	public static void main(String[] args) {
-	//In java everything most of the important things are stored in  Strings, so they thoght of creating a separate memory called "String pool" memory
+	//In java everything most of the important things are stored in  Strings, so they thought of creating a separate memory called "String pool" memory
 
 		
 		//First way of creating of Strings (String literal)
