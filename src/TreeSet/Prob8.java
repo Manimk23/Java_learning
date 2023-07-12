@@ -1,0 +1,26 @@
+package TreeSet;
+
+import java.util.TreeSet;
+
+public class Prob8 {
+
+	public static void main(String[] args) {
+		TreeSet<Integer> ts = new TreeSet();
+		ts.add(1);
+		ts.add(3);
+		ts.add(4);
+		ts.add(5);
+		ts.add(7);
+		ts.add(9);
+		ts.add(11);
+		System.out.println("The no less than 7 are :");
+		for (Integer number:ts)
+		{
+			if(number<7)
+			{
+				System.out.println(number);
+			}
+		}
+	}
+
+}
